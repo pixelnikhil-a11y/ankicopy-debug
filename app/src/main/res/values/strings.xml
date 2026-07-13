@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnkiCopy</string>
+    <string name="accessibility_service_description">Lets your gamepad buttons copy AnkiDroid card content, switch to your chosen AI app, paste and send, scroll cards smoothly, and open split screen - all without a separate automation app.</string>
+</resources>
